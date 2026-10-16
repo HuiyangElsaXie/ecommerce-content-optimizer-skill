@@ -5,6 +5,8 @@ description: Audit product and category page content and propose evidence-led ec
 
 # Ecommerce Content Optimizer
 
+Optional first-use example: [Paper Cove product/category audit and copy edits](examples/fictional-example.md), with [the output template](templates/output.md). These are fictional product facts, not claims to reuse. Consult the example when useful; keep this root folder and supporting resources together.
+
 ## Start with a small brief
 Reuse relevant existing briefs, supplied pages and prior decisions only when access and this task's purpose permit. Do not search unrelated private sources. Record the source link/file/message, date and relevant fact. Public-facing output must not expose private context; anonymize it or ask before external sharing.
 Capture business/product, target audience and intent, primary goal, lifecycle (new, growing, mature, restructuring), acquisition context, language, and constraints (platform, budget, time, existing URLs, brand/compliance). Ask a compact batch of missing questions only when they would change the deliverable. Otherwise state a provisional assumption and proceed.

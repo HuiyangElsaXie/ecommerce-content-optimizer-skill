@@ -1,4 +1,4 @@
-# About draft / About 文案草稿
+# Repository description / 仓库简介
 
 English: Personal-use product and category page content audits and evidence-led copy suggestions skill. Continuously updated.
 

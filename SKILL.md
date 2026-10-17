@@ -22,6 +22,11 @@ Use [templates/output.md](templates/output.md); include only relevant sections. 
 Before delivering, check every factual claim against its ledger ID, label each recommendation, preserve user constraints, and list material missing evidence. Source/adaptation details are in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 
+## Finding and copy gates
+Audience and suitability claims need evidence: do not invent "likely beginners", "perfect for beginners", universal fit or an adequate-for-use judgment from a category label or thin product description. Keep an unknown audience/fit explicit; a proposed audience hypothesis belongs outside publishable copy with evidence needed.
+
+For every alleged missing element, state whether the evidence is an excerpt, a complete supplied page, or an actually inspected live page and the inspected scope. Excerpt silence becomes a verification task, never a confirmed page/site defect. Do not recommend adding a policy/banner as an unconditional fix on that basis; make any addition conditional on checking the relevant page first. Before delivery, check each finding row and before/after suggestion against these gates, not just the ledger.
+
 ## Audit content by page type
 1. Identify whether the page is a product detail page, category/collection page, or both. Define the audience's shopping task and the requested scope. A copy-only request should not become a checkout redesign.
 2. For product pages, check name and variant clarity, supported specifications, imagery/captions supplied, use-case explanation, feature-to-benefit support, price/currency evidence, availability evidence, delivery/returns links, compatibility or sizing guidance, truthful reviews/proof, FAQs and next-action clarity. Missing policy information is a question, never an invented promise.

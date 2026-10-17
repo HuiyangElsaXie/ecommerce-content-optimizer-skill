@@ -1,0 +1,37 @@
+{
+  "record_type": "Retrospective reconstruction of actual tool events; no invented calls",
+  "events": [
+    {
+      "event": 1,
+      "tool": "functions.exec -> exec_command",
+      "operation": "Python -X utf8 read",
+      "paths": [
+        "repo/SKILL.md",
+        "case/brief.md",
+        "case/case.json"
+      ],
+      "outcome": "Success, exit 0; text displayed using json.dumps ensure_ascii=True"
+    },
+    {
+      "event": 2,
+      "tool": "functions.exec -> exec_command",
+      "operation": "Python -X utf8 read and SHA256",
+      "paths": [
+        "repo/templates/output.md",
+        "repo/SKILL.md"
+      ],
+      "outcome": "Success, exit 0; template read and both loaded resource hashes returned"
+    },
+    {
+      "event": 3,
+      "tool": "functions.exec -> exec_command",
+      "operation": "Python -X utf8 write",
+      "paths": [
+        "case/raw-response.md",
+        "case/commands.json",
+        "case/tool-availability.md"
+      ],
+      "outcome": "raw-response.md written first; metadata writes follow in this same invocation; completion reported by process output"
+    }
+  ]
+}

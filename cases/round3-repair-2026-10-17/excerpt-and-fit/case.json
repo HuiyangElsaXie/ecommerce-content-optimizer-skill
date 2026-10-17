@@ -1,0 +1,13 @@
+{
+  "repo": "ecommerce-content-optimizer-skill",
+  "scenario": "excerpt-and-fit",
+  "configured_model": "gpt-6.1-sol",
+  "base_commit": "f233629873dc2b07d0ff0e8ea16acfe777428c5a",
+  "skill_entry": "SKILL.md",
+  "loaded_rule_sha256": {
+    "SKILL.md": "e489a764ede1bb14c411278a5ca46bfa84aea8970cc24c11d297e4ce10e512e8",
+    "templates/output.md": "2d88366d11753be9c93ecbb8c78df8f94ddcc6aba4d09d9781bd8667bbe19920"
+  },
+  "network_paid_accounts_business_tools": "prohibited",
+  "input_origin": "root-authored synthetic input; executor did not create the brief"
+}

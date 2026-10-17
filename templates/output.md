@@ -15,13 +15,15 @@ Uninspected areas:
 | F1 | Fill from evidence | URL, file or supplied brief | Note gaps |
 
 ## Audit findings
-| Page / type | Evidence | Purchase question or friction hypothesis | Proposal | Missing proof | Priority and reason | Effort |
-|---|---|---|---|---|---|---|
+| Page / type | Evidence and coverage: excerpt / full supplied page / inspected live scope | Verified issue or verification task | Purchase question or friction hypothesis | Conditional proposal | Missing proof | Priority and reason | Effort |
+|---|---|---|---|---|---|---|---|
 
 ## Copy suggestions
 Original excerpt:
 Proposed wording:
 Supported claims and fact IDs:
+Audience/suitability evidence; unsupported fit claims excluded:
+For each claimed absence: coverage recorded; excerpt silence converted to verification:
 Rationale:
 Excluded unsupported claims / evidence needed:
 

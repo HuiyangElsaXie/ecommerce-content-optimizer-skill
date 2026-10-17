@@ -8,6 +8,12 @@ A personal-use skill for product and category page content audits and evidence-l
 ### Use
 Open SKILL.md in your AI assistant, or place this folder in a skill directory supported by your own assistant. Ask: “Audit the supplied notebook product/category excerpts. Identify unanswered purchase questions, propose a few before/after copy edits using confirmed attributes, and list missing policy/catalog evidence; do not change the shop.” Supply the business/product, target audience, primary goal, lifecycle stage, source pages or pasted content, and practical constraints. Existing relevant context may be reused when access and purpose are permitted; the report records where each fact came from. Missing information is marked, and only blocking questions are asked.
 
+### Audit and copy flow
+1. **You** provide the shopping task, product/category material and constraints, identifying excerpts versus complete pages.
+2. **AI** traces claims, checks purchase-question coverage and proposes a few before/after edits; excerpt silence becomes a verification task.
+3. **You** confirm specifications, policies, audience fit and any live-page gaps, then choose which recommendations merit action.
+4. **AI** delivers the scoped audit, supported copy and evidence/validation tasks for review; it does not alter the catalog or shop.
+
 ### Files and output
 - SKILL.md: self-contained workflow
 - templates/output.md: reusable report structure
@@ -22,6 +28,12 @@ Produces a reviewable plan/audit, draft wording where appropriate, evidence gaps
 
 ### 使用方式
 在 AI 助手中读取 SKILL.md，或将此文件夹放入助手支持的技能目录。示例请求：“审查我提供的笔记本商品页与分类页片段，列购买问题、少量前后文案对照及缺失政策／目录证据；只用已确认属性，不修改商店。”提供业务或产品、目标受众、主要目标、业务阶段、页面来源或粘贴内容，以及实际约束。允许复用有权限且与任务相关的已有上下文，并记录事实来源；缺失信息明确标注，只追问影响交付的关键问题。
+
+### 审查与文案流程
+1. **你**提供购买任务、商品或分类资料及约束，说明哪些只是页面片段。
+2. **AI**核对主张与购买问题，提出少量前后文案；片段沉默只记为核实任务。
+3. **你**确认参数、政策、适用受众及真实页面缺口，判断哪些建议值得采用。
+4. **AI**交付范围明确的审查、文案和补证／验证任务供审阅；不修改目录或商店。
 
 ### 交付与边界
 输出可审阅的规划或审查报告、必要的文案建议、证据缺口及下一步核验。无需运行依赖、付费测试或账号连接，不自动修改或发布现有网站。不凭空编造转化提升、产品参数、库存、评价或优惠。示例完全虚构，正式使用前须替换为真实证据。
